@@ -1,5 +1,7 @@
 # WildAI 中文使用指南：注册、订阅、风险与方案对比
 
+[通过邀请链接进入 WildAI（邀请码 AIG）](https://bewild.ai/?code=AIG)
+
 WildAI（bewild.ai）相关的中文教程仓库，集中整理注册、邀请码、ChatGPT / Claude 订阅流程、安全风险和 AI 订阅方案对比。
 
 本仓库提供可直接阅读的 Markdown 文档。文章由仓库维护者提供，不代表 OpenAI、Anthropic 或 GitHub 的官方说明；与 WildAI 的官方关系未作认证。
@@ -18,7 +20,7 @@ WildAI（bewild.ai）相关的中文教程仓库，集中整理注册、邀请�
 
 ### WildAI 的产品入口在哪里？
 
-本文档讨论的服务入口为 [bewild.ai](https://bewild.ai/)。应核对地址及当前页面，避免将同名产品混淆。
+本文档讨论的服务入口为 [bewild.ai](https://bewild.ai/?code=AIG)。应核对地址及当前页面，避免将同名产品混淆。
 
 ### 注册和订阅流程在哪里？
 
@@ -33,7 +35,7 @@ WildAI（bewild.ai）相关的中文教程仓库，集中整理注册、邀请�
 - 内容来源：维护者提供的五篇 Markdown 原稿。
 - 原稿标注更新时间：2026年10月；本仓库整理日期：2026-10-13。
 - 用户规模、优惠、退款、安全性和模型权益等主张尚未逐项独立核验，具体说明见各篇编辑说明。
-- [WildAI](https://bewild.ai/) · [ChatGPT 套餐](https://openai.com/chatgpt/pricing/) · [Claude 套餐](https://www.anthropic.com/pricing)
+- [WildAI](https://bewild.ai/?code=AIG) · [ChatGPT 套餐](https://openai.com/chatgpt/pricing/) · [Claude 套餐](https://www.anthropic.com/pricing)
 
 ## 纠错与引用
 

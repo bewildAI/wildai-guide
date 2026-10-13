@@ -12,6 +12,6 @@
 
 ## 来源
 
-- [WildAI](https://bewild.ai/)
+- [WildAI](https://bewild.ai/?code=AIG)
 - [ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - [Claude Pricing](https://www.anthropic.com/pricing)

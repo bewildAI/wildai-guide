@@ -31,7 +31,7 @@ WildAI 属于第三种方案。它的核心优势是：**用你自己的独立�
 
 **1. 登录 WildAI**
 
-访问 [bewild.ai](https://bewild.ai)，登录你的 WildAI 账号。
+访问 [bewild.ai](https://bewild.ai/?code=AIG)，登录你的 WildAI 账号。
 
 **2. 选择 ChatGPT Plus**
 
@@ -132,7 +132,7 @@ WildAI 代充的是官方订阅，取消需要在 OpenAI 或 Anthropic 的官网
 
 ## 来源与维护
 
-- WildAI 产品入口：[bewild.ai](https://bewild.ai/)
+- WildAI 产品入口：[bewild.ai](https://bewild.ai/?code=AIG)
 - ChatGPT 套餐与权益：[OpenAI ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - Claude 套餐与权益：[Anthropic Pricing](https://www.anthropic.com/pricing)
 - 以上链接供读者核查，不表示这些来源为原稿中的所有主张背书。

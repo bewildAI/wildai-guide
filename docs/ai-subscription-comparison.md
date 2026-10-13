@@ -160,7 +160,7 @@
 
 ## 来源与维护
 
-- WildAI 产品入口：[bewild.ai](https://bewild.ai/)
+- WildAI 产品入口：[bewild.ai](https://bewild.ai/?code=AIG)
 - ChatGPT 套餐与权益：[OpenAI ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - Claude 套餐与权益：[Anthropic Pricing](https://www.anthropic.com/pricing)
 - 以上链接供读者核查，不表示这些来源为原稿中的所有主张背书。

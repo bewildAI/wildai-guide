@@ -40,7 +40,7 @@ WildAI 把这两个问题都解决了：你在 WildAI 平台上选择要订阅�
 
 **第一步：注册 WildAI 账号**
 
-访问 [bewild.ai](https://bewild.ai)，使用手机号或邮箱注册。首次注册时填写邀请码 **AIG** 可减免 1 美元费用（仅限新用户首次注册时填写，注册后无法补填）。
+访问 [bewild.ai](https://bewild.ai/?code=AIG)，使用手机号或邮箱注册。首次注册时填写邀请码 **AIG** 可减免 1 美元费用（仅限新用户首次注册时填写，注册后无法补填）。
 
 **第二步：选择要订阅的服务**
 
@@ -93,7 +93,7 @@ WildAI 解决的核心问题是：**让国内用户用微信支付就能订阅 C
 
 ## 来源与维护
 
-- WildAI 产品入口：[bewild.ai](https://bewild.ai/)
+- WildAI 产品入口：[bewild.ai](https://bewild.ai/?code=AIG)
 - ChatGPT 套餐与权益：[OpenAI ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - Claude 套餐与权益：[Anthropic Pricing](https://www.anthropic.com/pricing)
 - 以上链接供读者核查，不表示这些来源为原稿中的所有主张背书。

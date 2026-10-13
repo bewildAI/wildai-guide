@@ -17,7 +17,7 @@
 
 ## 第一步：访问 bewild.ai
 
-打开浏览器，访问 WildAI 的官网：[bewild.ai](https://bewild.ai)
+打开浏览器，访问 WildAI 的官网：[bewild.ai](https://bewild.ai/?code=AIG)
 
 你可以用手机浏览器或者电脑浏览器，都可以正常访问。
 
@@ -108,7 +108,7 @@ WildAI 的注册流程非常简单：访问 bewild.ai → 手机号/邮箱注册
 
 ## 来源与维护
 
-- WildAI 产品入口：[bewild.ai](https://bewild.ai/)
+- WildAI 产品入口：[bewild.ai](https://bewild.ai/?code=AIG)
 - ChatGPT 套餐与权益：[OpenAI ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - Claude 套餐与权益：[Anthropic Pricing](https://www.anthropic.com/pricing)
 - 以上链接供读者核查，不表示这些来源为原稿中的所有主张背书。
