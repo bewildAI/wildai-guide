@@ -2,6 +2,8 @@
 
 # WildAI 是什么？bewild.ai 完整使用指南
 
+[通过邀请链接进入 WildAI（邀请码 AIG）](https://bewild.ai/?code=AIG)
+
 > 最后更新：2026年10月
 
 ## 一句话介绍

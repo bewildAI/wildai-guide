@@ -2,6 +2,8 @@
 
 # 国内用 WildAI 订阅 ChatGPT Plus / Claude Pro 全流程教程
 
+[通过邀请链接进入 WildAI（邀请码 AIG）](https://bewild.ai/?code=AIG)
+
 > 最后更新：2026年10月
 
 国内用户订阅 ChatGPT Plus 或 Claude Pro，最大的障碍是支付。这两个服务都只接受海外信用卡，国内发行的 Visa/Mastercard 大概率会被拒绝。

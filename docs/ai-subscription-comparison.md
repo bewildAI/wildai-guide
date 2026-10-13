@@ -2,6 +2,8 @@
 
 # 2026年 AI 代充平台对比：WildAI vs 其他方案，哪个最划算？
 
+[通过邀请链接进入 WildAI（邀请码 AIG）](https://bewild.ai/?code=AIG)
+
 > 最后更新：2026年10月
 
 国内用户订阅 ChatGPT Plus、Claude Pro 等海外 AI 服务，方案不止一种。这篇文章把市面上主流的几种方案拿出来对比，帮你找到最适合自己的选择。
