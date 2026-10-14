@@ -1,128 +1,94 @@
-
-
-# 国内用 WildAI 订阅 ChatGPT Plus / Claude Pro 全流程教程
+# 如何通过 WildAI 订阅 ChatGPT 会员（图文教程）
 
 [通过邀请链接进入 WildAI（邀请码 AIG）](https://bewild.ai/?code=AIG)
 
-> 最后更新：2026年10月
+用 WildAI 给自己的 ChatGPT 账号开会员，全程约 5 分钟。下单前记得填写邀请码 AIG，订单立减 1美金。
 
-国内用户订阅 ChatGPT Plus 或 Claude Pro，最大的障碍是支付。这两个服务都只接受海外信用卡，国内发行的 Visa/Mastercard 大概率会被拒绝。
+## 开始前准备
 
-本文介绍如何通过 WildAI（bewild.ai）平台，用微信支付完成订阅，全程不需要任何海外支付工具。
+- 一个能正常登录的 ChatGPT 账号：会员会直接开在这个账号上，不用换号，也不跟别人共享
 
-## 方案对比：为什么选 WildAI？
+- 一台电脑和浏览器：推荐 Chrome 或 Edge，后面要在同一个浏览器里同时打开 WildAI 和 ChatGPT
 
-国内用户订阅海外 AI 服务，常见的方案有三种：
+- 支付方式：微信支付，或 Visa / Mastercard / Amex 信用卡
 
-| 方案 | 优点 | 缺点 |
-|------|------|------|
-| **虚拟信用卡**（Depay、Nobepay 等） | 拿到卡后可以自己操作 | 办卡有门槛和费用，需要自己处理支付环境 |
-| **合租/共享账号** | 价格便宜 | 不安全，数据共享，随时可能被封号 |
-| **代充平台**（WildAI 等） | 操作简单，用自己的账号 | 有服务费 |
+- 邀请码 AIG：在下单前填写，在套餐价格的基础上再减 $1
 
-WildAI 属于第三种方案。它的核心优势是：**用你自己的独立账号，微信支付直接付款，订阅失败全额退款。**
+## 第 1 步：登录 WildAI 并填写邀请码
 
-## 订阅 ChatGPT Plus 教程
+打开 [bewild.ai](https://bewild.ai/?code=AIG)，注册或登录账号。
 
-### 前置条件
+## 第 2 步：选择 ChatGPT
 
-- 一个 ChatGPT 账号（还没有的话，去 [chat.openai.com](https://chat.openai.com) 免费注册一个）
-- 一个 WildAI 账号（[注册教程](register-tutorial.md)）
+在「新订阅」页面点击 ChatGPT 卡片（Go / Plus / Pro，$8.99/月起），再点底部的「新订阅」。
 
-### 操作步骤
+如果你之前已经在 WildAI 开过会员，要续费就点「已订阅续订」；从 Plus 升级就点「升级至 Pro」。
 
-**1. 登录 WildAI**
+![操作截图 1](../assets/subscribe-chatgpt-claude/image1.png)
 
-访问 [bewild.ai](https://bewild.ai/?code=AIG)，登录你的 WildAI 账号。
+## 第 3 步：选择周期和套餐
 
-**2. 选择 ChatGPT Plus**
+先在上方选订阅周期，再选套餐，然后点「下一步」。买得越久越划算：选 2 个月立省 $5.99，3 个月立省 $11.48，6 个月立省 $16.95。
 
-在服务列表中选择「ChatGPT Plus」，确认订阅周期（月付）。
+套餐下标有「可续订」，到期前可以在 WildAI 直接续费。避免自己的账号变成Free状态
 
-**3. 按提示登录 ChatGPT 账号**
+![操作截图 2](../assets/subscribe-chatgpt-claude/image2.png)
 
-WildAI 会引导你登录自己的 ChatGPT 账号。这一步是为了让 WildAI 代你完成支付操作。
+## 第 4 步：登录你的 ChatGPT 账号
 
-**4. 确认并支付**
+点击页面上的「开启」按钮，会在新标签页打开 chatgpt.com。登录你要开会员的那个账号，然后回到 WildAI 页面。
 
-确认订阅信息无误后，用微信扫码付款即可。
+WildAI 需要通过你的登录状态来生成支付链接。如果浏览器里已经登录了别的 ChatGPT 账号，先退出再换成正确的账号。
 
-**5. 等待订阅生效**
+![操作截图 3](../assets/subscribe-chatgpt-claude/image3.png)
 
-支付完成后，通常几秒钟内你的 ChatGPT 账号就会升级为 Plus 会员。你可以直接打开 ChatGPT 验证。
+## 第 5 步：打开 session 页面并复制全部内容
 
-### ChatGPT Plus 会员能做什么？
+> Session 内容包含敏感登录凭据。本仓库省略相关截图；不要将这些内容发布到公开页面。
 
-升级 Plus 后，你将获得：
+- 在同一个浏览器里点击页面上的链接：[https://chatgpt.com/api/auth/session](https://chatgpt.com/api/auth/session)
 
-- GPT-4o 模型的完整访问权限
-- 更快的响应速度和优先队列
-- 更长的对话上下文窗口
-- 图片生成（DALL·E）
-- 高级数据分析
-- 自定义 GPTs 的完整功能
+- 会打开一个只有一大段文字的页面，这是你当前的登录信息（JSON 字符串）
 
-如果你需要更高的使用限额，可以选择 ChatGPT Pro。
+- 先按 Ctrl + A（Mac 用 Cmd + A）全选，再按 Ctrl + C（Mac 用 Cmd + C）复制
 
-## 订阅 Claude Pro 教程
 
-### 前置条件
 
-- 一个 Claude 账号（去 [claude.ai](https://claude.ai) 免费注册）
-- 一个 WildAI 账号（[注册教程](register-tutorial.md)）
 
-### 操作步骤
 
-流程和 ChatGPT Plus 基本一致：
+## 第 6 步：粘贴并提交
 
-**1. 登录 WildAI → 2. 选择 Claude Pro → 3. 登录 Claude 账号 → 4. 微信支付 → 5. 订阅生效**
+回到 WildAI，把刚才复制的内容粘贴（Ctrl / Cmd + V）到提交框里，点「下一步」。
 
-### Claude Pro 会员能做什么？
 
-升级 Pro 后，你将获得：
 
-- 大幅提升的每日使用额度
-- 优先访问最新模型
-- 更长的对话上下文
-- 项目功能（Projects）
-- 文件上传和分析
+## 第 7 步：确认 ChatGPT 邮箱
 
-如果你是重度用户，可以考虑 Claude Max，使用额度更高。
+页面会显示你刚才登录的 ChatGPT 账号邮箱。仔细核对是不是要开会员的账号，确认无误后点「下一步」。邮箱不对，就点「上一步」回到第 4 步换账号。
 
-## 订阅后的注意事项
+![操作截图 7](../assets/subscribe-chatgpt-claude/image7.png)
 
-### 关于续费
+## 第 8 步：选择付款方式并支付
 
-ChatGPT Plus 和 Claude Pro 都是月付订阅。到期前，你需要在 WildAI 上重新操作一次续费。WildAI 也支持设置自动续费。
+- 微信支付（推荐）：会跳转到支付页，用微信扫二维码付款即可
 
-### 关于账号安全
+- 信用卡：支持 Visa、Mastercard、Amex
 
-- 你的 ChatGPT/Claude 账号密码不会被 WildAI 存储
-- 订阅完成后，WildAI 不会保留你的账号访问权限
-- 建议订阅完成后修改密码（非必须，但更安心）
+- 余额支付：用 WildAI 账户里的美元余额付款；余额不足时，点「一键补足」充值差额
 
-### 关于退款
+![操作截图 8](../assets/subscribe-chatgpt-claude/image8.png)
 
-如果订阅操作失败（比如 OpenAI 系统维护导致无法完成），WildAI 承诺全额退款。
+支付页会显示订单号和交易时间，建议截图保存。扣费在账单上会显示为 bewild.ai。如果付完款页面没有跳转，点右侧的「点击此处查看交易状态」。
 
-## 常见问题
+![操作截图 9](../assets/subscribe-chatgpt-claude/image9.png)
 
-### ChatGPT Plus 和 Claude Pro 应该选哪个？
+## 第 9 步：确认订阅成功
 
-两个产品各有优势：
+付款后进入 WildAI 的「我的订阅」→「AI 订阅」，找到刚才的订单。状态显示绿色的 「已完成」，就说明会员已经开好了。状态没更新时，点右上角的「重新整理」。
 
-- **ChatGPT Plus**：生态更丰富，GPTs 插件多，适合日常对话、创意写作、数据分析
-- **Claude Pro**：长文本处理更强，代码能力优秀，适合写作、编程、文档分析
+![操作截图 10](../assets/subscribe-chatgpt-claude/image10.png)
 
-如果预算允许，两个都订阅是最佳选择——不同任务用不同工具。
-
-### 可以同时订阅多个服务吗？
-
-可以。WildAI 支持同时订阅 ChatGPT Plus、Claude Pro 和其他服务，互不影响。
-
-### 订阅后发现不需要了，能取消吗？
-
-WildAI 代充的是官方订阅，取消需要在 OpenAI 或 Anthropic 的官网操作。取消后，会员权益会持续到当前订阅周期结束。
+再回到 ChatGPT 刷新页面，左下角的账号信息里应该能看到你开通的套餐，订单右侧可以「续订」或「下载账单」，到期前直接在这里续费就行。
 
 ---
 
@@ -138,7 +104,7 @@ WildAI 代充的是官方订阅，取消需要在 OpenAI 或 Anthropic 的官网
 - ChatGPT 套餐与权益：[OpenAI ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - Claude 套餐与权益：[Anthropic Pricing](https://www.anthropic.com/pricing)
 - 以上链接供读者核查，不表示这些来源为原稿中的所有主张背书。
-- 原稿标注更新：2026年10月；仓库整理日期：2026-10-13。
+- 原稿标注更新：2026年10月；仓库整理日期：2026-10-14。
 
 ## 继续阅读
 

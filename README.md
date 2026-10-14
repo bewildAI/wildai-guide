@@ -12,7 +12,7 @@ WildAI（bewild.ai）相关的中文教程仓库，集中整理注册、邀请�
 |---|---|
 | WildAI 是什么？bewild.ai 完整使用指南（2026最新） | [阅读全文](docs/what-is-wildai.md) |
 | WildAI 注册教程：邀请码获取、账号设置到首次充值（2026） | [阅读全文](docs/register-tutorial.md) |
-| 国内用 WildAI 订阅 ChatGPT Plus / Claude Pro 全流程教程（2026） | [阅读全文](docs/subscribe-chatgpt-claude.md) |
+| 如何通过 WildAI 订阅 ChatGPT 会员（图文教程） | [阅读全文](docs/subscribe-chatgpt-claude.md) |
 | WildAI 安全吗？第三方 AI 会员代充平台安全性详解（2026） | [阅读全文](docs/is-wildai-safe.md) |
 | 2026年 AI 代充平台对比：WildAI vs 其他方案，哪个最划算？ | [阅读全文](docs/ai-subscription-comparison.md) |
 
@@ -32,8 +32,8 @@ WildAI（bewild.ai）相关的中文教程仓库，集中整理注册、邀请�
 
 ## 信息来源与时效
 
-- 内容来源：维护者提供的五篇 Markdown 原稿。
-- 原稿标注更新时间：2026年10月；本仓库整理日期：2026-10-13。
+- 内容来源：维护者更新后的五篇 Word 原稿。
+- 原稿标注更新时间：2026年10月；本仓库整理日期：2026-10-14。
 - 用户规模、优惠、退款、安全性和模型权益等主张尚未逐项独立核验，具体说明见各篇编辑说明。
 - [WildAI](https://bewild.ai/?code=AIG) · [ChatGPT 套餐](https://openai.com/chatgpt/pricing/) · [Claude 套餐](https://www.anthropic.com/pricing)
 
